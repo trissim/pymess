@@ -6,7 +6,6 @@ all_users = {}
 all_messages = {}
 conversations = {}
 
-
 class conversation:
     def __init__(self,thread):
         self.thread = thread
